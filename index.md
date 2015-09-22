@@ -7,7 +7,7 @@ maintainers: ["Deb Paul", "Tracy Teal"]
 domain: Ecology
 topic: OpenRefine
 software:
-dataurl: https://www.dropbox.com/s/kbb4k00eanm19lg/Portal_rodents_19772002_scinameUUIDs.csv?dl=0
+dataurl: https://github.com/iDigBio/2015-09-23-TDWG-OpenRefine-ecology/raw/gh-pages/data/Portal_rodents_19772002_scinameUUIDs.csv
 status: Teaching
 ---
 
